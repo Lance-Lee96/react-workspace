@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.0",
+    "@mui/material": "^5.6.0"
+  },
+  "name": "react-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lance-Lee96/react-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lance-Lee96/react-workspace/issues"
+  },
+  "homepage": "https://github.com/Lance-Lee96/react-workspace#readme",
+  "description": ""
+}
