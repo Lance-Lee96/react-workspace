@@ -1,8 +1,8 @@
 import {Routes,Route} from "react-router-dom"
 import './App.css';
-import Categories from "./Categories";
-import Products from "./Product";
-import ProductDetail from "./ProductDetail";
+import Categories from "./category/Categories";
+import Products from "./category/Product";
+import ProductDetail from "./category/ProductDetail";
 
 function App() {
   return (
